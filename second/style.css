@@ -1,0 +1,37 @@
+.p1 {
+  background-color: rgb(90, 144, 220);
+  display: inline-flex;
+  height: 180vh;
+  width: 25vw;
+  float:left;
+  overflow: hidden;
+}
+
+.p2 {
+  background-color: rgb(124, 224, 195);
+  display: inline-flex;
+  height: 180vh;
+  width: 50vw;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.p3 {
+  background-color: rgb(194, 230, 145);
+  display: inline-flex;
+  height:180vh;
+  width: 24vw;
+  float: right;
+  overflow:hidden;
+  position: absolute;
+}
+
+.img {
+  display: inline-flex;
+  float:right;
+  bottom: 0;
+  max-height: 40vh;
+  max-width: 24vw;
+  overflow: hidden;
+  position: absolute;
+}
